@@ -46,3 +46,4 @@ Temporary Items
 *.iml
 .idea/vcs.xml
 test.py
+test.txt

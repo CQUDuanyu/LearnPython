@@ -21,3 +21,5 @@ print "Alright,all done"
 
 out_file.close()
 in_file.close()
+
+#for the study drill 3. My script is :out_file = open(to_file,"w").write(open(from_file,"r").read())
