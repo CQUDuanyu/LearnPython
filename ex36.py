@@ -1,0 +1,1 @@
+ex36 tells something about rules when using "if" and "while"
